@@ -13782,6 +13782,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MeiToon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.meitoon",
+    "apk": "tachiyomi-en.meitoon-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MeiToon",
+        "lang": "en",
+        "id": "3314074618469377356",
+        "baseUrl": "https://meitoon.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MGJinx",
     "pkg": "eu.kanade.tachiyomi.extension.en.mgjinx",
     "apk": "tachiyomi-en.mgjinx-v1.4.20.apk",
@@ -16977,17 +16995,17 @@
   {
     "name": "Tachiyomi: Catharsis World",
     "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
-    "apk": "tachiyomi-es.catharsisworld-v1.4.53.apk",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.54.apk",
     "lang": "es",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 1,
     "sources": [
       {
         "name": "Catharsis World",
         "lang": "es",
         "id": "2856082375563763469",
-        "baseUrl": "https://catharsisworld.dig-it.info",
+        "baseUrl": "https://catharsisworld.vxviral.xyz",
         "versionId": 2
       }
     ]
@@ -22071,6 +22089,24 @@
         "lang": "ja",
         "id": "1056568527385317039",
         "baseUrl": "https://webcomic.ohtabooks.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Piccoma",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.piccoma",
+    "apk": "tachiyomi-ja.piccoma-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Piccoma",
+        "lang": "ja",
+        "id": "7159690625157327655",
+        "baseUrl": "https://piccoma.com",
         "versionId": 1
       }
     ]
