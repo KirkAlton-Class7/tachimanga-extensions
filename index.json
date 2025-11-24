@@ -8591,18 +8591,18 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.56.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.57.apk",
     "lang": "ar",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaSwat",
         "lang": "ar",
-        "id": "264168699090292138",
-        "baseUrl": "https://swatscans.com",
-        "versionId": 1
+        "id": "7657007209499352344",
+        "baseUrl": "https://appswat.com",
+        "versionId": 2
       }
     ]
   },
@@ -11031,10 +11031,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.68.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.69.apk",
     "lang": "en",
-    "code": 68,
-    "version": "1.4.68",
+    "code": 69,
+    "version": "1.4.69",
     "nsfw": 1,
     "sources": [
       {
@@ -22858,17 +22858,17 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.6.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
         "name": "Aurora Scan",
         "lang": "pt-BR",
         "id": "3121404924614598451",
-        "baseUrl": "https://aurorascan.net",
+        "baseUrl": "https://www.serenitytoons.win",
         "versionId": 1
       }
     ]
@@ -23668,17 +23668,17 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.52.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "sources": [
       {
         "name": "Maid Scan",
         "lang": "pt-BR",
         "id": "7624757094973334315",
-        "baseUrl": "https://novo.empreguetes.site",
+        "baseUrl": "https://empreguetes.xyz",
         "versionId": 1
       }
     ]
@@ -23848,10 +23848,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.8.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
@@ -24532,10 +24532,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.62.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.63.apk",
     "lang": "pt-BR",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 1,
     "sources": [
       {
@@ -24543,7 +24543,7 @@
         "lang": "pt-BR",
         "id": "6963507464339951166",
         "baseUrl": "https://www.sussytoons.wtf",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
