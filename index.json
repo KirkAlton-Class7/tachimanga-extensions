@@ -6687,17 +6687,17 @@
   {
     "name": "Tachiyomi: NineManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninemanga",
-    "apk": "tachiyomi-all.ninemanga-v1.4.24.apk",
+    "apk": "tachiyomi-all.ninemanga-v1.4.25.apk",
     "lang": "all",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 0,
     "sources": [
       {
         "name": "NineMangaEn",
         "lang": "en",
         "id": "120391793502126753",
-        "baseUrl": "https://ninemanga.com",
+        "baseUrl": "https://www.ninemanga.com",
         "versionId": 1
       },
       {
@@ -21441,6 +21441,24 @@
         "lang": "ja",
         "id": "6786869574657969795",
         "baseUrl": "https://comicride.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comic Ryu",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comicryu",
+    "apk": "tachiyomi-ja.comicryu-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Comic Ryu",
+        "lang": "ja",
+        "id": "516402804198118822",
+        "baseUrl": "https://www.comic-ryu.jp",
         "versionId": 1
       }
     ]
