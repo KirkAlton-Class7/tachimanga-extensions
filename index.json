@@ -18476,6 +18476,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Spicy Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.spicyscan",
+    "apk": "tachiyomi-es.spicyscan-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Spicy Scan",
+        "lang": "es",
+        "id": "2665002677795338092",
+        "baseUrl": "https://spicyseries.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Stick Horse",
     "pkg": "eu.kanade.tachiyomi.extension.es.stickhorse",
     "apk": "tachiyomi-es.stickhorse-v1.4.45.apk",
