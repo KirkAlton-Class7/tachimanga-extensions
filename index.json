@@ -19475,10 +19475,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.50.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.51.apk",
     "lang": "fr",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
